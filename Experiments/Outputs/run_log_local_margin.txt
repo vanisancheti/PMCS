@@ -1,0 +1,115 @@
+Number of Arguments: 12
+-l
+Done reading arguments
+start new partition with 5 number of graphs
+Running Margin......
+Running Graph 0
+Size of KnownGraphsMap 0
+	0.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Running Graph 1
+Size of KnownGraphsMap 0
+	20.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Running Graph 2
+Size of KnownGraphsMap 0
+	40.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Running Graph 3
+Size of KnownGraphsMap 0
+	60.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Running Graph 4
+Size of KnownGraphsMap 0
+	80.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Printing stored number of graphs for each size
+Size of the Graphs: 6
+Number of Graphs: 1
+--------------------------------------------
+No Of Max Freq. Subgraphs : 1
+No Of Max Freq. Subgraphs in this partition: 1
+ExpCut Time Taken for 0th partition        : 0
+No Of Expand Cuts for 0th partition        : 0
+Total Time Taken  for 0th partition        : 0
+----------------------------------------------------------------
+start new partition with 5 number of graphs
+Running Margin......
+Running Graph 0
+Size of KnownGraphsMap 0
+	0.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Running Graph 1
+Size of KnownGraphsMap 0
+	20.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Running Graph 2
+Size of KnownGraphsMap 0
+	40.000Start of expand cut!!
+End of Expand Cut for graph 2
+Time taken    0.04
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts49
+No Of Max Freq. Subgraphs : 2
+Running Graph 3
+Size of KnownGraphsMap 0
+	60.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Running Graph 4
+Size of KnownGraphsMap 0
+	80.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Printing stored number of graphs for each size
+Size of the Graphs: 5
+Number of Graphs: 1
+Size of the Graphs: 6
+Number of Graphs: 1
+--------------------------------------------
+No Of Max Freq. Subgraphs : 2
+No Of Max Freq. Subgraphs in this partition: 1
+ExpCut Time Taken for 1th partition        : 0.06
+No Of Expand Cuts for 1th partition        : 49
+Total Time Taken  for 1th partition        : 0.06
+----------------------------------------------------------------
+Local Computation done
+Total Time Taken for local computation for each partition        : 0.06
+----------------------------------------------------------------
+NO of local MFS: 2

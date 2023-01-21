@@ -1,0 +1,43 @@
+Number of Arguments: 12
+-l
+Done reading arguments
+TimeLocal: 0
+start new partition with 5 number of graphs
+5 MinSupport: 2
+Reading input time: 0
+rm ./Outputs/output_gSpan.txt
+Executing rm ./Outputs/output_gSpan.txt.fp
+./gSpan_2 ./Outputs/output_gSpan.txt -s2 -o
+
+in processing
+-------------------System Performance------------------
+			0.00207sec
+	4  Discovered SubGraphs with at least one edge
+---------------------------End-------------------------
+gSpan running time: 0
+Merging time: 0
+----------------------------------------------------------------
+TimeLocal: 0
+start new partition with 5 number of graphs
+5 MinSupport: 2
+Reading input time: 0
+rm ./Outputs/output_gSpan.txt
+Executing rm ./Outputs/output_gSpan.txt.fp
+./gSpan_2 ./Outputs/output_gSpan.txt -s2 -o
+
+in processing
+-------------------System Performance------------------
+			0.001902sec
+	4  Discovered SubGraphs with at least one edge
+---------------------------End-------------------------
+gSpan running time: 0
+Merging time: 0
+----------------------------------------------------------------
+EVR :: 0
+Level: 3 Size: 1
+NO of local MFS: 1
+EVR: 0
+Local Computation done
+Complete Time Taken for local computation for each partition        : 0
+Total Time Taken for local computation for each partition        : 0
+----------------------------------------------------------------

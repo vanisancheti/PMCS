@@ -1,0 +1,29 @@
+13
+-g
+Starting to read the file
+Loading graph: 0 Graph
+done reading 1 Graph
+Done storing the Global structure
+Round number 0
+start new partition with 5 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 3 Size: 1
+Freq found in 0th partition: 2
+start new partition with 5 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 3 Size: 1
+Freq found in 1th partition: 3
+Time taken for freq Computation in this partition: 0
+Checking for globally frequent graphs and globally infrequent graphs Size: 1
+Level: 3 Size: 1
+OutputLevel 3 Size: 1
+Global Computation done
+Total number of loadings									: 3
+Total graphs generated in global computation        		: 1
+Total subgraph isomorphism checks                          : 10
+Total isomorphism checks                                   : 0
+Total graphs generated in global computation        		: 1
+Total Time Taken for global computation        			: 0 Sec
+Total time taken for freq Computation: 0
+Total Time Taken for the overall margin algorithm        	: 0 Sec
+----------------------------------------------------------------

@@ -1,0 +1,46 @@
+Number of Arguments: 13
+-g
+Done reading arguments
+Starting to read the file
+Done reading
+Computing Frequency for all the candidate graphs
+Start Computing MCS for all the candidate local maximal frequent graphs found
+No. of Infreq graphs = 0
+After computing MCS wrt db
+t # 0
+Freq 5
+GraphID size 10
+Validity: 1
+v 0 0
+v 1 1
+v 2 0
+v 3 1
+u 0 1 0
+u 0 2 1
+u 2 3 0
+GraphCode: 0.1.0.2.2.3.
+NewGraphCode: 0.0.1.0.0.1.0.1.0.
+Printing Subgraphs
+ 
+Total subgraph isomorphism checks after MCS: 10
+Total isomorphism checks after MCS: 0
+Time taken for freq Computation: 0
+Time taken for BGetMCS: 0
+Time taken for MCS computation wrt the database: 0
+No. of graphs added in GlobalMaxFreq after MCS Computation: 0
+----------------------------------------------------------------
+Checking for Maximal Frequent Subgraphs
+Level: 3 Indexes: 0 Validity: 1
+Graph is frequent with frequency: 5
+Time taken by the iteration for filtering out the global max freq subgraphs: 0
+No. of graphs added in GlobalMaxFreq after MFS Computation: 0
+Done Global computing
+----------------------------------------------------------------
+OutputLevel 3 Size: 1
+Global Computation done
+Graph Freq: 1
+Total subgraph isomorphism checks                          : 10
+Total isomorphism checks                                   : 0
+Total graphs generated in global computation        		: 1
+Total Time Taken for global computation        			: 0
+----------------------------------------------------------------

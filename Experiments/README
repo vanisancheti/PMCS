@@ -1,0 +1,24 @@
+This folder contains the script (automateTest_1.sh) to compute Maximal Frequent Subgraphs using PMCS.
+
+We have divided the script into 3 steps::
+1. Generating Synthetic Data
+2. Performing Local Computation
+    2a. Using gSpan
+    2b. Using MARGIN
+3. Performing Global Computation
+    3a. Using Naive Iterative Approach
+    3b. Using PMCS Approach
+
+How to run?
+    - Update the following Parameters in the script:
+        -index              - Specify the databases size as the value of index in the for loop
+        -graph parameters   - Specify the graph parameters (L, T, i, E, V) that would be used by the graph generater. 
+        -support            - specifies the support value
+        -partition          - specifies the number of partition
+    
+    - For using gSpan as Local Computation method, update the file name after flag -g at line 82 and line 107 to be local_gSpan.txt, and uncomment the corresponding code in the script from Line 27-53.
+
+    - For using MARGIN as Local Computation method, update the file name after flag -g at line 82 and line 107 to be local_margin.txt, and uncomment the corresponding code in the script from Line 56-77
+
+    - Running the script:
+        ./automateTest_1.sh
