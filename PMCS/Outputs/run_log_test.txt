@@ -1,0 +1,130 @@
+Number of Arguments: 13
+-g
+Done reading arguments
+Starting to read the file
+Done reading
+Computing Frequency for all the candidate graphs
+Here anytmie
+2
+Level: 12
+Candidate Index 0
+Validity 1
+Freq 50
+v 0 3
+v 1 4
+v 2 4
+v 3 2
+v 4 5
+v 5 4
+v 6 1
+u 0 1 1
+u 0 2 4
+u 0 3 1
+u 0 5 2
+u 0 6 2
+u 1 3 1
+u 1 4 0
+u 1 5 2
+u 2 3 2
+u 2 4 1
+u 2 5 0
+u 3 4 3
+GraphCode: 0.1.0.2.0.3.0.5.0.6.1.3.1.4.1.5.2.3.2.4.2.5.3.4.
+NewGraphCode: 1.2.3.2.1.3.2.1.4.2.2.4.2.3.5.3.1.4.3.2.4.3.4.4.4.0.4.4.0.5.4.1.5.4.2.4.
+Level: 9
+Candidate Index 0
+Validity 1
+Freq 50
+v 0 0
+v 1 0
+v 2 1
+v 3 0
+v 4 2
+u 0 1 0
+u 0 2 0
+u 0 3 1
+u 0 4 2
+u 1 2 0
+u 1 3 3
+u 1 4 3
+u 2 3 0
+u 2 4 0
+GraphCode: 0.1.0.2.0.3.0.4.1.2.1.3.1.4.2.3.2.4.
+NewGraphCode: 0.0.0.0.0.1.0.0.1.0.0.1.0.1.0.0.2.2.0.3.0.0.3.2.1.0.2.
+Number of Infrequent graphs: 0
+Start Computing MCS for all the candidate local maximal frequent graphs found
+No. of Infreq graphs = 0
+After computing MCS wrt db
+t # 0
+Freq 50
+GraphID size 1000
+Validity: 1
+v 0 3
+v 1 4
+v 2 4
+v 3 2
+v 4 5
+v 5 4
+v 6 1
+u 0 1 1
+u 0 2 4
+u 0 3 1
+u 0 5 2
+u 0 6 2
+u 1 3 1
+u 1 4 0
+u 1 5 2
+u 2 3 2
+u 2 4 1
+u 2 5 0
+u 3 4 3
+GraphCode: 0.1.0.2.0.3.0.5.0.6.1.3.1.4.1.5.2.3.2.4.2.5.3.4.
+NewGraphCode: 1.2.3.2.1.3.2.1.4.2.2.4.2.3.5.3.1.4.3.2.4.3.4.4.4.0.4.4.0.5.4.1.5.4.2.4.
+Printing Subgraphs
+ 
+t # 1
+Freq 50
+GraphID size 1000
+Validity: 1
+v 0 0
+v 1 0
+v 2 1
+v 3 0
+v 4 2
+u 0 1 0
+u 0 2 0
+u 0 3 1
+u 0 4 2
+u 1 2 0
+u 1 3 3
+u 1 4 3
+u 2 3 0
+u 2 4 0
+GraphCode: 0.1.0.2.0.3.0.4.1.2.1.3.1.4.2.3.2.4.
+NewGraphCode: 0.0.0.0.0.1.0.0.1.0.0.1.0.1.0.0.2.2.0.3.0.0.3.2.1.0.2.
+Printing Subgraphs
+ 
+Time taken for freq Computation: 0.06
+Time taken for BGetMCS: 0
+Time taken for MCS computation wrt the database: 0
+Number of MCS Operations: 0
+No. of graphs added in GlobalMaxFreq after MCS Computation: 0
+----------------------------------------------------------------
+Checking for Maximal Frequent Subgraphs
+Level: 12 Indexes: 0 Validity: 1
+Graph is frequent with frequency: 50
+Level: 9 Indexes: 0 Validity: 1
+Graph is frequent with frequency: 50
+Time taken by the iteration for filtering out the global max freq subgraphs: 0
+No. of graphs added in GlobalMaxFreq after MFS Computation: 0
+Done Global computing
+----------------------------------------------------------------
+OutputLevel 9 Size: 1
+OutputLevel 12 Size: 1
+Global Computation done
+Graph Freq: 2
+Total subgraph isomorphism checks                          : 236
+Total isomorphism checks                                   : 0
+Total graphs generated in global computation        		: 2
+Total Time Taken for global computation        			: 0.06
+----------------------------------------------------------------

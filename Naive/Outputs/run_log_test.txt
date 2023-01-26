@@ -1,0 +1,349 @@
+13
+-g
+Starting to read the file
+Loading graph: 0 Graph
+done reading 1 Graph
+Loading graph: 1 Graph
+done reading 2 Graph
+Loading graph: 2 Graph
+done reading 3 Graph
+Loading graph: 3 Graph
+done reading 4 Graph
+Loading graph: 4 Graph
+done reading 5 Graph
+Done storing the Global structure
+Round number 0
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 11 Size: 1
+Freq found in 0th partition: 26
+Level: 9 Size: 3
+Freq found in 0th partition: 50
+Freq found in 0th partition: 44
+Freq found in 0th partition: 38
+Level: 7 Size: 1
+Freq found in 0th partition: 5
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 11 Size: 1
+Freq found in 1th partition: 24
+Level: 9 Size: 3
+Freq found in 1th partition: 1
+Freq found in 1th partition: 6
+Freq found in 1th partition: 12
+Level: 7 Size: 1
+Freq found in 1th partition: 11
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 11 Size: 1
+Freq found in 2th partition: 1
+Level: 9 Size: 3
+Freq found in 2th partition: 1
+Freq found in 2th partition: 1
+Freq found in 2th partition: 1
+Level: 7 Size: 1
+Freq found in 2th partition: 8
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 11 Size: 1
+Freq found in 3th partition: 1
+Level: 9 Size: 3
+Freq found in 3th partition: 1
+Freq found in 3th partition: 1
+Freq found in 3th partition: 1
+Level: 7 Size: 1
+Freq found in 3th partition: 9
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 11 Size: 1
+Freq found in 4th partition: 1
+Level: 9 Size: 3
+Freq found in 4th partition: 1
+Freq found in 4th partition: 1
+Freq found in 4th partition: 1
+Level: 7 Size: 1
+Freq found in 4th partition: 11
+Time taken for freq Computation in this partition: 0.22
+Checking for globally frequent graphs and globally infrequent graphs Size: 3
+Level: 11 Size: 1
+Level: 9 Size: 3
+Level: 7 Size: 1
+Level: 6 Size: 6
+Round number 3
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 6 Size: 6
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 50
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 6 Size: 6
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 1
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 6 Size: 6
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 1
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 6 Size: 6
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 1
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 6 Size: 6
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 1
+Time taken for freq Computation in this partition: 0.21
+Checking for globally frequent graphs and globally infrequent graphs Size: 4
+Level: 6 Size: 6
+Level: 5 Size: 10
+Round number 4
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 5 Size: 10
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 5 Size: 10
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 5 Size: 10
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 5 Size: 10
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 5 Size: 10
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Time taken for freq Computation in this partition: 0.22
+Checking for globally frequent graphs and globally infrequent graphs Size: 5
+Level: 5 Size: 10
+Level: 4 Size: 7
+Round number 5
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 4 Size: 7
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 4 Size: 7
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 4 Size: 7
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 4 Size: 7
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 4 Size: 7
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Time taken for freq Computation in this partition: 0.18
+Checking for globally frequent graphs and globally infrequent graphs Size: 6
+Level: 4 Size: 7
+Level: 3 Size: 3
+Round number 6
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 3 Size: 3
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+Freq found in 0th partition: 5
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 3 Size: 3
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+Freq found in 1th partition: 11
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 3 Size: 3
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+Freq found in 2th partition: 8
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 3 Size: 3
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+Freq found in 3th partition: 9
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 3 Size: 3
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Freq found in 4th partition: 11
+Time taken for freq Computation in this partition: 0.22
+Checking for globally frequent graphs and globally infrequent graphs Size: 7
+Level: 3 Size: 3
+Level: 2 Size: 1
+Round number 7
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 2 Size: 1
+Freq found in 0th partition: 5
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 2 Size: 1
+Freq found in 1th partition: 11
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 2 Size: 1
+Freq found in 2th partition: 8
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 2 Size: 1
+Freq found in 3th partition: 9
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 2 Size: 1
+Freq found in 4th partition: 11
+Time taken for freq Computation in this partition: 0.18
+Checking for globally frequent graphs and globally infrequent graphs Size: 8
+Level: 2 Size: 1
+Level: 1 Size: 1
+Round number 8
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 1 Size: 1
+Freq found in 0th partition: 5
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 1 Size: 1
+Freq found in 1th partition: 11
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 1 Size: 1
+Freq found in 2th partition: 8
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 1 Size: 1
+Freq found in 3th partition: 9
+start new partition with 200 number of graphs
+Computed Frequency for all the candidate graphs
+Level: 1 Size: 1
+Freq found in 4th partition: 11
+Time taken for freq Computation in this partition: 0.17
+Checking for globally frequent graphs and globally infrequent graphs Size: 9
+Level: 1 Size: 1
+OutputLevel 1 Size: 0
+OutputLevel 2 Size: 0
+OutputLevel 3 Size: 0
+OutputLevel 4 Size: 0
+OutputLevel 5 Size: 0
+OutputLevel 6 Size: 1
+OutputLevel 7 Size: 0
+OutputLevel 9 Size: 3
+OutputLevel 11 Size: 1
+Global Computation done
+Total number of loadings									: 11
+Total graphs generated in global computation        		: 33
+Total subgraph isomorphism checks                          : 29370
+Total isomorphism checks                                   : 0
+Total graphs generated in global computation        		: 33
+Total Time Taken for global computation        			: 1.43 Sec
+Total time taken for freq Computation: 1.4
+Total Time Taken for the overall naive algorithm        	: 1.43 Sec
+----------------------------------------------------------------

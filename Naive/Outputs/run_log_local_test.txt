@@ -1,0 +1,7303 @@
+12
+-l
+start new partition with 200 number of graphs
+Running Naive......
+Running Graph 0
+	0.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Running Graph 1
+	0.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Running Graph 2
+	1.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Running Graph 3
+	1.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 3
+Running Graph 4
+	2.000Start of expand cut!!
+End of Expand Cut for graph 4
+Time taken    0.12
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 4
+Running Graph 5
+	2.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 6
+	3.000Start of expand cut!!
+End of Expand Cut for graph 6
+Time taken    0.7
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 4
+Running Graph 7
+	3.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 8
+	4.000Start of expand cut!!
+End of Expand Cut for graph 8
+Time taken    0.12
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 4
+Running Graph 9
+	4.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 10
+	5.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 11
+	5.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 12
+	6.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 13
+	6.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 14
+	7.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 15
+	7.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 16
+	8.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 17
+	8.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 18
+	9.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 19
+	9.500Start of expand cut!!
+End of Expand Cut for graph 19
+Time taken    0.71
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 20
+	10.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 21
+	10.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 22
+	11.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 23
+	11.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 24
+	12.000Start of expand cut!!
+End of Expand Cut for graph 24
+Time taken    0.71
+Merging start!!
+Time taken    0.05
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 25
+	12.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 26
+	13.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 27
+	13.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 28
+	14.000Start of expand cut!!
+End of Expand Cut for graph 28
+Time taken    0.71
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 29
+	14.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 30
+	15.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 31
+	15.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 32
+	16.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 33
+	16.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 34
+	17.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 35
+	17.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 36
+	18.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 37
+	18.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 38
+	19.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 39
+	19.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 40
+	20.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 41
+	20.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 42
+	21.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 43
+	21.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 44
+	22.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 45
+	22.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 46
+	23.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 47
+	23.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 48
+	24.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 49
+	24.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 50
+	25.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 51
+	25.500Start of expand cut!!
+End of Expand Cut for graph 51
+Time taken    3.23
+Merging start!!
+Time taken    1.18
+Merging done!!
+local expand cuts1152
+No Of Max Freq. Subgraphs : 5
+Running Graph 52
+	26.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 53
+	26.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 54
+	27.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 55
+	27.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 56
+	28.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 57
+	28.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 58
+	29.000Start of expand cut!!
+End of Expand Cut for graph 58
+Time taken    2.39
+Merging start!!
+Time taken    0.68
+Merging done!!
+local expand cuts815
+No Of Max Freq. Subgraphs : 5
+Running Graph 59
+	29.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 60
+	30.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 61
+	30.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 62
+	31.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 63
+	31.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 64
+	32.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 65
+	32.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 66
+	33.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 67
+	33.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 68
+	34.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 69
+	34.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 70
+	35.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 71
+	35.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 72
+	36.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 73
+	36.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 74
+	37.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 75
+	37.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 76
+	38.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 77
+	38.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 78
+	39.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 79
+	39.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 80
+	40.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 81
+	40.500Start of expand cut!!
+End of Expand Cut for graph 81
+Time taken    2.09
+Merging start!!
+Time taken    0.56
+Merging done!!
+local expand cuts767
+No Of Max Freq. Subgraphs : 5
+Running Graph 82
+	41.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 83
+	41.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 84
+	42.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 85
+	42.500Start of expand cut!!
+End of Expand Cut for graph 85
+Time taken    0.71
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 86
+	43.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 87
+	43.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 88
+	44.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 89
+	44.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 90
+	45.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 91
+	45.500Start of expand cut!!
+End of Expand Cut for graph 91
+Time taken    0.35
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 92
+	46.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 93
+	46.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 94
+	47.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 95
+	47.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 96
+	48.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 97
+	48.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 98
+	49.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 99
+	49.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 100
+	50.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 101
+	50.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 102
+	51.000Start of expand cut!!
+End of Expand Cut for graph 102
+Time taken    1.17
+Merging start!!
+Time taken    0.21
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 103
+	51.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 104
+	52.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 105
+	52.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 106
+	53.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 107
+	53.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 108
+	54.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 109
+	54.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 110
+	55.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 111
+	55.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 112
+	56.000Start of expand cut!!
+End of Expand Cut for graph 112
+Time taken    1.18
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 113
+	56.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 114
+	57.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 115
+	57.500Start of expand cut!!
+End of Expand Cut for graph 115
+Time taken    1.17
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 116
+	58.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 117
+	58.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 118
+	59.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 119
+	59.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 120
+	60.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 121
+	60.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 122
+	61.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 123
+	61.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 124
+	62.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 125
+	62.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 126
+	63.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 127
+	63.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 128
+	64.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 129
+	64.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 130
+	65.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 131
+	65.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 132
+	66.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 133
+	66.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 134
+	67.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 135
+	67.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 136
+	68.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 137
+	68.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 138
+	69.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 139
+	69.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 140
+	70.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 141
+	70.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 142
+	71.000Start of expand cut!!
+End of Expand Cut for graph 142
+Time taken    0.34
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 143
+	71.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 144
+	72.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 145
+	72.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 146
+	73.000Start of expand cut!!
+End of Expand Cut for graph 146
+Time taken    1.17
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 147
+	73.500Start of expand cut!!
+End of Expand Cut for graph 147
+Time taken    0.34
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts103
+No Of Max Freq. Subgraphs : 5
+Running Graph 148
+	74.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 149
+	74.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 150
+	75.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 151
+	75.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 152
+	76.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 153
+	76.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 154
+	77.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 155
+	77.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 156
+	78.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 157
+	78.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 158
+	79.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 159
+	79.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 160
+	80.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 161
+	80.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 162
+	81.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 163
+	81.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 164
+	82.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 165
+	82.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 166
+	83.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 167
+	83.500Start of expand cut!!
+End of Expand Cut for graph 167
+Time taken    0.13
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 168
+	84.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 169
+	84.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 170
+	85.000Start of expand cut!!
+End of Expand Cut for graph 170
+Time taken    0.34
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 171
+	85.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 172
+	86.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 173
+	86.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 174
+	87.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 175
+	87.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 176
+	88.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 177
+	88.500Start of expand cut!!
+End of Expand Cut for graph 177
+Time taken    0.7
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 178
+	89.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 179
+	89.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 180
+	90.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 181
+	90.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 182
+	91.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 183
+	91.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 184
+	92.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 185
+	92.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 186
+	93.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 187
+	93.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 188
+	94.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 189
+	94.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 190
+	95.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 191
+	95.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 192
+	96.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 193
+	96.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 194
+	97.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 195
+	97.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 196
+	98.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 197
+	98.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 198
+	99.000Start of expand cut!!
+End of Expand Cut for graph 198
+Time taken    2.38
+Merging start!!
+Time taken    0.46
+Merging done!!
+local expand cuts825
+No Of Max Freq. Subgraphs : 5
+Running Graph 199
+	99.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+--------------------------------------------
+No Of Max Freq. Subgraphs in this partition: 5
+ExpCut Time Taken for 0th partition        : 25.56 Sec
+No Of Expand Cuts for 0th partition        : 7276
+Total Time Taken  for 0th partition        : 25.66 Sec
+----------------------------------------------------------------
+start new partition with 200 number of graphs
+Running Naive......
+Running Graph 0
+	0.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Running Graph 1
+	0.500Start of expand cut!!
+End of Expand Cut for graph 1
+Time taken    2.96
+Merging start!!
+Time taken    0.87
+Merging done!!
+local expand cuts942
+No Of Max Freq. Subgraphs : 2
+Running Graph 2
+	1.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Running Graph 3
+	1.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Running Graph 4
+	2.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Running Graph 5
+	2.500Start of expand cut!!
+End of Expand Cut for graph 5
+Time taken    1.32
+Merging start!!
+Time taken    0.21
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 4
+Running Graph 6
+	3.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 7
+	3.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 8
+	4.000Start of expand cut!!
+End of Expand Cut for graph 8
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 9
+	4.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 10
+	5.000Start of expand cut!!
+End of Expand Cut for graph 10
+Time taken    1.29
+Merging start!!
+Time taken    0.21
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 11
+	5.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 12
+	6.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 13
+	6.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 14
+	7.000Start of expand cut!!
+End of Expand Cut for graph 14
+Time taken    0.12
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 15
+	7.500Start of expand cut!!
+End of Expand Cut for graph 15
+Time taken    0.38
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 16
+	8.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 17
+	8.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 18
+	9.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 19
+	9.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 20
+	10.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 21
+	10.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 22
+	11.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 23
+	11.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 24
+	12.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 25
+	12.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 26
+	13.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 27
+	13.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 28
+	14.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 29
+	14.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 30
+	15.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 31
+	15.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 32
+	16.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 33
+	16.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 34
+	17.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 35
+	17.500Start of expand cut!!
+End of Expand Cut for graph 35
+Time taken    2.95
+Merging start!!
+Time taken    0.86
+Merging done!!
+local expand cuts942
+No Of Max Freq. Subgraphs : 5
+Running Graph 36
+	18.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 37
+	18.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 38
+	19.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 39
+	19.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 40
+	20.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 41
+	20.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 42
+	21.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 43
+	21.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 44
+	22.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 45
+	22.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 46
+	23.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 47
+	23.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 48
+	24.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 49
+	24.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 50
+	25.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 51
+	25.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 52
+	26.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 53
+	26.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 54
+	27.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 55
+	27.500Start of expand cut!!
+End of Expand Cut for graph 55
+Time taken    2.37
+Merging start!!
+Time taken    0.58
+Merging done!!
+local expand cuts766
+No Of Max Freq. Subgraphs : 5
+Running Graph 56
+	28.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 57
+	28.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 58
+	29.000Start of expand cut!!
+End of Expand Cut for graph 58
+Time taken    2.35
+Merging start!!
+Time taken    0.58
+Merging done!!
+local expand cuts766
+No Of Max Freq. Subgraphs : 5
+Running Graph 59
+	29.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 60
+	30.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 61
+	30.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 62
+	31.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 63
+	31.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 64
+	32.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 65
+	32.500Start of expand cut!!
+End of Expand Cut for graph 65
+Time taken    0.38
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 66
+	33.000Time taken    0
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 67
+	33.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 68
+	34.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 69
+	34.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 70
+	35.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 71
+	35.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 72
+	36.000Start of expand cut!!
+End of Expand Cut for graph 72
+Time taken    1.29
+Merging start!!
+Time taken    0.21
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 73
+	36.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 74
+	37.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 75
+	37.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 76
+	38.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 77
+	38.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 78
+	39.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 79
+	39.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 80
+	40.000Start of expand cut!!
+End of Expand Cut for graph 80
+Time taken    1.56
+Merging start!!
+Time taken    0.24
+Merging done!!
+local expand cuts488
+No Of Max Freq. Subgraphs : 5
+Running Graph 81
+	40.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 82
+	41.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 83
+	41.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 84
+	42.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 85
+	42.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 86
+	43.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 87
+	43.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 88
+	44.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 89
+	44.500Start of expand cut!!
+End of Expand Cut for graph 89
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 90
+	45.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 91
+	45.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 92
+	46.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 93
+	46.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 94
+	47.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 95
+	47.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 96
+	48.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 97
+	48.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 98
+	49.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 99
+	49.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 100
+	50.000Start of expand cut!!
+End of Expand Cut for graph 100
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 101
+	50.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 102
+	51.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 103
+	51.500Start of expand cut!!
+End of Expand Cut for graph 103
+Time taken    0.38
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 104
+	52.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 105
+	52.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 106
+	53.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 107
+	53.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 108
+	54.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 109
+	54.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 110
+	55.000Start of expand cut!!
+End of Expand Cut for graph 110
+Time taken    0.12
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 111
+	55.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 112
+	56.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 113
+	56.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 114
+	57.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 115
+	57.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 116
+	58.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 117
+	58.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 118
+	59.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 119
+	59.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 120
+	60.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 121
+	60.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 122
+	61.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 123
+	61.500Start of expand cut!!
+End of Expand Cut for graph 123
+Time taken    0.87
+Merging start!!
+Time taken    0.09
+Merging done!!
+local expand cuts278
+No Of Max Freq. Subgraphs : 5
+Running Graph 124
+	62.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 125
+	62.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 126
+	63.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 127
+	63.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 128
+	64.000Start of expand cut!!
+End of Expand Cut for graph 128
+Time taken    0.37
+Merging start!!
+Time taken    0.02
+Merging done!!
+local expand cuts102
+No Of Max Freq. Subgraphs : 5
+Running Graph 129
+	64.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 130
+	65.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 131
+	65.500Start of expand cut!!
+End of Expand Cut for graph 131
+Time taken    1.29
+Merging start!!
+Time taken    0.21
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 132
+	66.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 133
+	66.500Start of expand cut!!
+End of Expand Cut for graph 133
+Time taken    0.12
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 134
+	67.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 135
+	67.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 136
+	68.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 137
+	68.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 138
+	69.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 139
+	69.500Start of expand cut!!
+End of Expand Cut for graph 139
+Time taken    2.68
+Merging start!!
+Time taken    0.68
+Merging done!!
+local expand cuts815
+No Of Max Freq. Subgraphs : 5
+Running Graph 140
+	70.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 141
+	70.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 142
+	71.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 143
+	71.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 144
+	72.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 145
+	72.500Start of expand cut!!
+End of Expand Cut for graph 145
+Time taken    1.29
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 146
+	73.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 147
+	73.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 148
+	74.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 149
+	74.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 150
+	75.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 151
+	75.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 152
+	76.000Start of expand cut!!
+End of Expand Cut for graph 152
+Time taken    2.36
+Merging start!!
+Time taken    0.58
+Merging done!!
+local expand cuts766
+No Of Max Freq. Subgraphs : 5
+Running Graph 153
+	76.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 154
+	77.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 155
+	77.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 156
+	78.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 157
+	78.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 158
+	79.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 159
+	79.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 160
+	80.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 161
+	80.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 162
+	81.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 163
+	81.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 164
+	82.000Start of expand cut!!
+End of Expand Cut for graph 164
+Time taken    0.37
+Merging start!!
+Time taken    0.02
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 165
+	82.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 166
+	83.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 167
+	83.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 168
+	84.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 169
+	84.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 170
+	85.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 171
+	85.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 172
+	86.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 173
+	86.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 174
+	87.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 175
+	87.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 176
+	88.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 177
+	88.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 178
+	89.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 179
+	89.500Start of expand cut!!
+End of Expand Cut for graph 179
+Time taken    0.12
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 180
+	90.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 181
+	90.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 182
+	91.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 183
+	91.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 184
+	92.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 185
+	92.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 186
+	93.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 187
+	93.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 188
+	94.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 189
+	94.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 190
+	95.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 191
+	95.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 192
+	96.000Start of expand cut!!
+End of Expand Cut for graph 192
+Time taken    1.56
+Merging start!!
+Time taken    0.24
+Merging done!!
+local expand cuts488
+No Of Max Freq. Subgraphs : 5
+Running Graph 193
+	96.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 194
+	97.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 195
+	97.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 196
+	98.000Time taken    0
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 197
+	98.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 198
+	99.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 199
+	99.500Start of expand cut!!
+End of Expand Cut for graph 199
+Time taken    2.6
+Merging start!!
+Time taken    0.47
+Merging done!!
+local expand cuts825
+No Of Max Freq. Subgraphs : 5
+--------------------------------------------
+No Of Max Freq. Subgraphs in this partition: 1
+ExpCut Time Taken for 1th partition        : 39.38 Sec
+No Of Expand Cuts for 1th partition        : 10326
+Total Time Taken  for 1th partition        : 39.51 Sec
+----------------------------------------------------------------
+start new partition with 200 number of graphs
+Running Naive......
+Running Graph 0
+	0.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Running Graph 1
+	0.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Running Graph 2
+	1.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 3
+Running Graph 3
+	1.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 3
+Running Graph 4
+	2.000Start of expand cut!!
+End of Expand Cut for graph 4
+Time taken    0.83
+Merging start!!
+Time taken    0.09
+Merging done!!
+local expand cuts280
+No Of Max Freq. Subgraphs : 4
+Running Graph 5
+	2.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 6
+	3.000Start of expand cut!!
+End of Expand Cut for graph 6
+Time taken    2.88
+Merging start!!
+Time taken    0.46
+Merging done!!
+local expand cuts825
+No Of Max Freq. Subgraphs : 4
+Running Graph 7
+	3.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 8
+	4.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 9
+	4.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 10
+	5.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 11
+	5.500Start of expand cut!!
+End of Expand Cut for graph 11
+Time taken    2.79
+Merging start!!
+Time taken    0.86
+Merging done!!
+local expand cuts942
+No Of Max Freq. Subgraphs : 4
+Running Graph 12
+	6.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 13
+	6.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 14
+	7.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 15
+	7.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 16
+	8.000Start of expand cut!!
+End of Expand Cut for graph 16
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 17
+	8.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 18
+	9.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 19
+	9.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 20
+	10.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 21
+	10.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 22
+	11.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 23
+	11.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 24
+	12.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 25
+	12.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 26
+	13.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 27
+	13.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 28
+	14.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 29
+	14.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 30
+	15.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 31
+	15.500Start of expand cut!!
+End of Expand Cut for graph 31
+Time taken    1.42
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 32
+	16.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 33
+	16.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 34
+	17.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 35
+	17.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 36
+	18.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 37
+	18.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 38
+	19.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 39
+	19.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 40
+	20.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 41
+	20.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 42
+	21.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 43
+	21.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 44
+	22.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 45
+	22.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 46
+	23.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 47
+	23.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 48
+	24.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 49
+	24.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 50
+	25.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 51
+	25.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 52
+	26.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 53
+	26.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 54
+	27.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 55
+	27.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 56
+	28.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 57
+	28.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 58
+	29.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 59
+	29.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 60
+	30.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 61
+	30.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 62
+	31.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 63
+	31.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 64
+	32.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 65
+	32.500Start of expand cut!!
+End of Expand Cut for graph 65
+Time taken    1.44
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 66
+	33.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 67
+	33.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 68
+	34.000Start of expand cut!!
+End of Expand Cut for graph 68
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 69
+	34.500Start of expand cut!!
+End of Expand Cut for graph 69
+Time taken    0.57
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 70
+	35.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 71
+	35.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 72
+	36.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 73
+	36.500Start of expand cut!!
+End of Expand Cut for graph 73
+Time taken    2.23
+Merging start!!
+Time taken    0.57
+Merging done!!
+local expand cuts767
+No Of Max Freq. Subgraphs : 5
+Running Graph 74
+	37.000Start of expand cut!!
+End of Expand Cut for graph 74
+Time taken    1.5
+Merging start!!
+Time taken    0.21
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 75
+	37.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 76
+	38.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 77
+	38.500Start of expand cut!!
+End of Expand Cut for graph 77
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 78
+	39.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 79
+	39.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 80
+	40.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 81
+	40.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 82
+	41.000Start of expand cut!!
+End of Expand Cut for graph 82
+Time taken    1.75
+Merging start!!
+Time taken    0.24
+Merging done!!
+local expand cuts490
+No Of Max Freq. Subgraphs : 5
+Running Graph 83
+	41.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 84
+	42.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 85
+	42.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 86
+	43.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 87
+	43.500Start of expand cut!!
+End of Expand Cut for graph 87
+Time taken    1.43
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 88
+	44.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 89
+	44.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 90
+	45.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 91
+	45.500Start of expand cut!!
+End of Expand Cut for graph 91
+Time taken    0.12
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 92
+	46.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 93
+	46.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 94
+	47.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 95
+	47.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 96
+	48.000Start of expand cut!!
+End of Expand Cut for graph 96
+Time taken    1.64
+Merging start!!
+Time taken    0.25
+Merging done!!
+local expand cuts488
+No Of Max Freq. Subgraphs : 5
+Running Graph 97
+	48.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 98
+	49.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 99
+	49.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 100
+	50.000Start of expand cut!!
+End of Expand Cut for graph 100
+Time taken    0.12
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 101
+	50.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 102
+	51.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 103
+	51.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 104
+	52.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 105
+	52.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 106
+	53.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 107
+	53.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 108
+	54.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 109
+	54.500Start of expand cut!!
+End of Expand Cut for graph 109
+Time taken    2.25
+Merging start!!
+Time taken    0.57
+Merging done!!
+local expand cuts767
+No Of Max Freq. Subgraphs : 5
+Running Graph 110
+	55.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 111
+	55.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 112
+	56.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 113
+	56.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 114
+	57.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 115
+	57.500Start of expand cut!!
+End of Expand Cut for graph 115
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 116
+	58.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 117
+	58.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 118
+	59.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 119
+	59.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 120
+	60.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 121
+	60.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 122
+	61.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 123
+	61.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 124
+	62.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 125
+	62.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 126
+	63.000Start of expand cut!!
+End of Expand Cut for graph 126
+Time taken    1.43
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 127
+	63.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 128
+	64.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 129
+	64.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 130
+	65.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 131
+	65.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 132
+	66.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 133
+	66.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 134
+	67.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 135
+	67.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 136
+	68.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 137
+	68.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 138
+	69.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 139
+	69.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 140
+	70.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 141
+	70.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 142
+	71.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 143
+	71.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 144
+	72.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 145
+	72.500Start of expand cut!!
+End of Expand Cut for graph 145
+Time taken    1.44
+Merging start!!
+Time taken    0.21
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 146
+	73.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 147
+	73.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 148
+	74.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 149
+	74.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 150
+	75.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 151
+	75.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 152
+	76.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 153
+	76.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 154
+	77.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 155
+	77.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 156
+	78.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 157
+	78.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 158
+	79.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 159
+	79.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 160
+	80.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 161
+	80.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 162
+	81.000Start of expand cut!!
+End of Expand Cut for graph 162
+Time taken    1.44
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 163
+	81.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 164
+	82.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 165
+	82.500Start of expand cut!!
+End of Expand Cut for graph 165
+Time taken    2.24
+Merging start!!
+Time taken    0.57
+Merging done!!
+local expand cuts767
+No Of Max Freq. Subgraphs : 5
+Running Graph 166
+	83.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 167
+	83.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 168
+	84.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 169
+	84.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 170
+	85.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 171
+	85.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 172
+	86.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 173
+	86.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 174
+	87.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 175
+	87.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 176
+	88.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 177
+	88.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 178
+	89.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 179
+	89.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 180
+	90.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 181
+	90.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 182
+	91.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 183
+	91.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 184
+	92.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 185
+	92.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 186
+	93.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 187
+	93.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 188
+	94.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 189
+	94.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 190
+	95.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 191
+	95.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 192
+	96.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 193
+	96.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 194
+	97.000Start of expand cut!!
+End of Expand Cut for graph 194
+Time taken    2.89
+Merging start!!
+Time taken    0.47
+Merging done!!
+local expand cuts825
+No Of Max Freq. Subgraphs : 5
+Running Graph 195
+	97.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 196
+	98.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 197
+	98.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 198
+	99.000Start of expand cut!!
+End of Expand Cut for graph 198
+Time taken    0.38
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 199
+	99.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+--------------------------------------------
+No Of Max Freq. Subgraphs in this partition: 0
+ExpCut Time Taken for 2th partition        : 38.72 Sec
+No Of Expand Cuts for 2th partition        : 10095
+Total Time Taken  for 2th partition        : 38.87 Sec
+----------------------------------------------------------------
+start new partition with 200 number of graphs
+Running Naive......
+Running Graph 0
+	0.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Running Graph 1
+	0.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Running Graph 2
+	1.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Running Graph 3
+	1.500Start of expand cut!!
+End of Expand Cut for graph 3
+Time taken    0.63
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 3
+Running Graph 4
+	2.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 3
+Running Graph 5
+	2.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 3
+Running Graph 6
+	3.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 3
+Running Graph 7
+	3.500Start of expand cut!!
+End of Expand Cut for graph 7
+Time taken    1.51
+Merging start!!
+Time taken    0.24
+Merging done!!
+local expand cuts488
+No Of Max Freq. Subgraphs : 4
+Running Graph 8
+	4.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 9
+	4.500Start of expand cut!!
+End of Expand Cut for graph 9
+Time taken    0.12
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 4
+Running Graph 10
+	5.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 11
+	5.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 12
+	6.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 13
+	6.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 14
+	7.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 15
+	7.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 16
+	8.000Start of expand cut!!
+End of Expand Cut for graph 16
+Time taken    5.41
+Merging start!!
+Time taken    1.25
+Merging done!!
+local expand cuts1479
+No Of Max Freq. Subgraphs : 5
+Running Graph 17
+	8.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 18
+	9.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 19
+	9.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 20
+	10.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 21
+	10.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 22
+	11.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 23
+	11.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 24
+	12.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 25
+	12.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 26
+	13.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 27
+	13.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 28
+	14.000Start of expand cut!!
+End of Expand Cut for graph 28
+Time taken    1.27
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 29
+	14.500Start of expand cut!!
+End of Expand Cut for graph 29
+Time taken    2.62
+Merging start!!
+Time taken    0.81
+Merging done!!
+local expand cuts767
+No Of Max Freq. Subgraphs : 5
+Running Graph 30
+	15.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 31
+	15.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 32
+	16.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 33
+	16.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 34
+	17.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 35
+	17.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 36
+	18.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 37
+	18.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 38
+	19.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 39
+	19.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 40
+	20.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 41
+	20.500Start of expand cut!!
+End of Expand Cut for graph 41
+Time taken    0.44
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 42
+	21.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 43
+	21.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 44
+	22.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 45
+	22.500Start of expand cut!!
+End of Expand Cut for graph 45
+Time taken    1.1
+Merging start!!
+Time taken    0.12
+Merging done!!
+local expand cuts280
+No Of Max Freq. Subgraphs : 5
+Running Graph 46
+	23.000Start of expand cut!!
+End of Expand Cut for graph 46
+Time taken    0.15
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 47
+	23.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 48
+	24.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 49
+	24.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 50
+	25.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 51
+	25.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 52
+	26.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 53
+	26.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 54
+	27.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 55
+	27.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 56
+	28.000Start of expand cut!!
+End of Expand Cut for graph 56
+Time taken    0.36
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 57
+	28.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 58
+	29.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 59
+	29.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 60
+	30.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 61
+	30.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 62
+	31.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 63
+	31.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 64
+	32.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 65
+	32.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 66
+	33.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 67
+	33.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 68
+	34.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 69
+	34.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 70
+	35.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 71
+	35.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 72
+	36.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 73
+	36.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 74
+	37.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 75
+	37.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 76
+	38.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 77
+	38.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 78
+	39.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 79
+	39.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 80
+	40.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 81
+	40.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 82
+	41.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 83
+	41.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 84
+	42.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 85
+	42.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 86
+	43.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 87
+	43.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 88
+	44.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 89
+	44.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 90
+	45.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 91
+	45.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 92
+	46.000Start of expand cut!!
+End of Expand Cut for graph 92
+Time taken    0.11
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 93
+	46.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 94
+	47.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 95
+	47.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 96
+	48.000Start of expand cut!!
+End of Expand Cut for graph 96
+Time taken    0.34
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 97
+	48.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 98
+	49.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 99
+	49.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 100
+	50.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 101
+	50.500Start of expand cut!!
+End of Expand Cut for graph 101
+Time taken    0.11
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 102
+	51.000Start of expand cut!!
+End of Expand Cut for graph 102
+Time taken    0.34
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 103
+	51.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 104
+	52.000Start of expand cut!!
+End of Expand Cut for graph 104
+Time taken    0.86
+Merging start!!
+Time taken    0.09
+Merging done!!
+local expand cuts280
+No Of Max Freq. Subgraphs : 5
+Running Graph 105
+	52.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 106
+	53.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 107
+	53.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 108
+	54.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 109
+	54.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 110
+	55.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 111
+	55.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 112
+	56.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 113
+	56.500Start of expand cut!!
+End of Expand Cut for graph 113
+Time taken    1.52
+Merging start!!
+Time taken    0.25
+Merging done!!
+local expand cuts488
+No Of Max Freq. Subgraphs : 5
+Running Graph 114
+	57.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 115
+	57.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 116
+	58.000Start of expand cut!!
+End of Expand Cut for graph 116
+Time taken    2.53
+Merging start!!
+Time taken    0.56
+Merging done!!
+local expand cuts767
+No Of Max Freq. Subgraphs : 5
+Running Graph 117
+	58.500Start of expand cut!!
+End of Expand Cut for graph 117
+Time taken    0.63
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 118
+	59.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 119
+	59.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 120
+	60.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 121
+	60.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 122
+	61.000Start of expand cut!!
+End of Expand Cut for graph 122
+Time taken    0.56
+Merging start!!
+Time taken    0.03
+Merging done!!
+local expand cuts155
+No Of Max Freq. Subgraphs : 5
+Running Graph 123
+	61.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 124
+	62.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 125
+	62.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 126
+	63.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 127
+	63.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 128
+	64.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 129
+	64.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 130
+	65.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 131
+	65.500Start of expand cut!!
+End of Expand Cut for graph 131
+Time taken    0.35
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts105
+No Of Max Freq. Subgraphs : 5
+Running Graph 132
+	66.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 133
+	66.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 134
+	67.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 135
+	67.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 136
+	68.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 137
+	68.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 138
+	69.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 139
+	69.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 140
+	70.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 141
+	70.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 142
+	71.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 143
+	71.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 144
+	72.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 145
+	72.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 146
+	73.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 147
+	73.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 148
+	74.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 149
+	74.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 150
+	75.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 151
+	75.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 152
+	76.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 153
+	76.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 154
+	77.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 155
+	77.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 156
+	78.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 157
+	78.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 158
+	79.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 159
+	79.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 160
+	80.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 161
+	80.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 162
+	81.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 163
+	81.500Start of expand cut!!
+End of Expand Cut for graph 163
+Time taken    2.52
+Merging start!!
+Time taken    0.56
+Merging done!!
+local expand cuts767
+No Of Max Freq. Subgraphs : 5
+Running Graph 164
+	82.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 165
+	82.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 166
+	83.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 167
+	83.500Start of expand cut!!
+End of Expand Cut for graph 167
+Time taken    1.24
+Merging start!!
+Time taken    0.12
+Merging done!!
+local expand cuts405
+No Of Max Freq. Subgraphs : 5
+Running Graph 168
+	84.000Start of expand cut!!
+End of Expand Cut for graph 168
+Time taken    2.54
+Merging start!!
+Time taken    0.56
+Merging done!!
+local expand cuts767
+No Of Max Freq. Subgraphs : 5
+Running Graph 169
+	84.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 170
+	85.000Start of expand cut!!
+End of Expand Cut for graph 170
+Time taken    0.63
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 171
+	85.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 172
+	86.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 173
+	86.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 174
+	87.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 175
+	87.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 176
+	88.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 177
+	88.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 178
+	89.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 179
+	89.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 180
+	90.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 181
+	90.500Time taken    0
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 182
+	91.000Start of expand cut!!
+End of Expand Cut for graph 182
+Time taken    1.26
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 183
+	91.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 184
+	92.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 185
+	92.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 186
+	93.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 187
+	93.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 188
+	94.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 189
+	94.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 190
+	95.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 191
+	95.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 192
+	96.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 193
+	96.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 194
+	97.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 195
+	97.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 196
+	98.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 197
+	98.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 198
+	99.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 199
+	99.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+--------------------------------------------
+No Of Max Freq. Subgraphs in this partition: 0
+ExpCut Time Taken for 3th partition        : 35.16 Sec
+No Of Expand Cuts for 3th partition        : 8955
+Total Time Taken  for 3th partition        : 35.33 Sec
+----------------------------------------------------------------
+start new partition with 200 number of graphs
+Running Naive......
+Running Graph 0
+	0.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Running Graph 1
+	0.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 1
+Running Graph 2
+	1.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 2
+Running Graph 3
+	1.500Start of expand cut!!
+End of Expand Cut for graph 3
+Time taken    1.27
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 3
+Running Graph 4
+	2.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 3
+Running Graph 5
+	2.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 3
+Running Graph 6
+	3.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 7
+	3.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 8
+	4.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 9
+	4.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 10
+	5.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 11
+	5.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 12
+	6.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 13
+	6.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 14
+	7.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 15
+	7.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 16
+	8.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 17
+	8.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 18
+	9.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 19
+	9.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 4
+Running Graph 20
+	10.000Start of expand cut!!
+End of Expand Cut for graph 20
+Time taken    1.98
+Merging start!!
+Time taken    0.58
+Merging done!!
+local expand cuts766
+No Of Max Freq. Subgraphs : 5
+Running Graph 21
+	10.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 22
+	11.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 23
+	11.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 24
+	12.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 25
+	12.500Start of expand cut!!
+End of Expand Cut for graph 25
+Time taken    0.14
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 26
+	13.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 27
+	13.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 28
+	14.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 29
+	14.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 30
+	15.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 31
+	15.500Start of expand cut!!
+End of Expand Cut for graph 31
+Time taken    0.67
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 32
+	16.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 33
+	16.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 34
+	17.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 35
+	17.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 36
+	18.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 37
+	18.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 38
+	19.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 39
+	19.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 40
+	20.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 41
+	20.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 42
+	21.000Start of expand cut!!
+End of Expand Cut for graph 42
+Time taken    1.25
+Merging start!!
+Time taken    0.22
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 43
+	21.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 44
+	22.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 45
+	22.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 46
+	23.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 47
+	23.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 48
+	24.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 49
+	24.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 50
+	25.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 51
+	25.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 52
+	26.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 53
+	26.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 54
+	27.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 55
+	27.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 56
+	28.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 57
+	28.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 58
+	29.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 59
+	29.500Start of expand cut!!
+End of Expand Cut for graph 59
+Time taken    0.67
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 60
+	30.000Start of expand cut!!
+End of Expand Cut for graph 60
+Time taken    1.98
+Merging start!!
+Time taken    0.58
+Merging done!!
+local expand cuts766
+No Of Max Freq. Subgraphs : 5
+Running Graph 61
+	30.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 62
+	31.000Start of expand cut!!
+End of Expand Cut for graph 62
+Time taken    2.65
+Merging start!!
+Time taken    0.87
+Merging done!!
+local expand cuts942
+No Of Max Freq. Subgraphs : 5
+Running Graph 63
+	31.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 64
+	32.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 65
+	32.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 66
+	33.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 67
+	33.500Start of expand cut!!
+End of Expand Cut for graph 67
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 68
+	34.000Start of expand cut!!
+End of Expand Cut for graph 68
+Time taken    2
+Merging start!!
+Time taken    0.39
+Merging done!!
+local expand cuts614
+No Of Max Freq. Subgraphs : 5
+Running Graph 69
+	34.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 70
+	35.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 71
+	35.500Start of expand cut!!
+End of Expand Cut for graph 71
+Time taken    0.9
+Merging start!!
+Time taken    0.09
+Merging done!!
+local expand cuts280
+No Of Max Freq. Subgraphs : 5
+Running Graph 72
+	36.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 73
+	36.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 74
+	37.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 75
+	37.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 76
+	38.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 77
+	38.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 78
+	39.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 79
+	39.500Start of expand cut!!
+End of Expand Cut for graph 79
+Time taken    0.16
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 80
+	40.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 81
+	40.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 82
+	41.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 83
+	41.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 84
+	42.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 85
+	42.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 86
+	43.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 87
+	43.500Start of expand cut!!
+End of Expand Cut for graph 87
+Time taken    1.59
+Merging start!!
+Time taken    0.24
+Merging done!!
+local expand cuts490
+No Of Max Freq. Subgraphs : 5
+Running Graph 88
+	44.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 89
+	44.500Start of expand cut!!
+End of Expand Cut for graph 89
+Time taken    0.14
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 90
+	45.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 91
+	45.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 92
+	46.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 93
+	46.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 94
+	47.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 95
+	47.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 96
+	48.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 97
+	48.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 98
+	49.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 99
+	49.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 100
+	50.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 101
+	50.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 102
+	51.000Start of expand cut!!
+End of Expand Cut for graph 102
+Time taken    0.38
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 103
+	51.500Start of expand cut!!
+End of Expand Cut for graph 103
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 104
+	52.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 105
+	52.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 106
+	53.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 107
+	53.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 108
+	54.000Start of expand cut!!
+End of Expand Cut for graph 108
+Time taken    0.67
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 109
+	54.500Start of expand cut!!
+End of Expand Cut for graph 109
+Time taken    1.27
+Merging start!!
+Time taken    0.21
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 110
+	55.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 111
+	55.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 112
+	56.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 113
+	56.500Start of expand cut!!
+End of Expand Cut for graph 113
+Time taken    0.65
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 114
+	57.000Start of expand cut!!
+End of Expand Cut for graph 114
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 115
+	57.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 116
+	58.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 117
+	58.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 118
+	59.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 119
+	59.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 120
+	60.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 121
+	60.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 122
+	61.000Start of expand cut!!
+End of Expand Cut for graph 122
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts102
+No Of Max Freq. Subgraphs : 5
+Running Graph 123
+	61.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 124
+	62.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 125
+	62.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 126
+	63.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 127
+	63.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 128
+	64.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 129
+	64.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 130
+	65.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 131
+	65.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 132
+	66.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 133
+	66.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 134
+	67.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 135
+	67.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 136
+	68.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 137
+	68.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 138
+	69.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 139
+	69.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 140
+	70.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 141
+	70.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 142
+	71.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 143
+	71.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 144
+	72.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 145
+	72.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 146
+	73.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 147
+	73.500Start of expand cut!!
+End of Expand Cut for graph 147
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts102
+No Of Max Freq. Subgraphs : 5
+Running Graph 148
+	74.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 149
+	74.500Start of expand cut!!
+End of Expand Cut for graph 149
+Time taken    0.37
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 150
+	75.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 151
+	75.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 152
+	76.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 153
+	76.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 154
+	77.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 155
+	77.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 156
+	78.000Start of expand cut!!
+End of Expand Cut for graph 156
+Time taken    0.38
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 157
+	78.500Start of expand cut!!
+End of Expand Cut for graph 157
+Time taken    0.14
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 158
+	79.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 159
+	79.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 160
+	80.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 161
+	80.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 162
+	81.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 163
+	81.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 164
+	82.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 165
+	82.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 166
+	83.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 167
+	83.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 168
+	84.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 169
+	84.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 170
+	85.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 171
+	85.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 172
+	86.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 173
+	86.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 174
+	87.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 175
+	87.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 176
+	88.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 177
+	88.500Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 178
+	89.000Start of expand cut!!
+End of Expand Cut for graph 178
+Time taken    1.26
+Merging start!!
+Time taken    0.21
+Merging done!!
+local expand cuts440
+No Of Max Freq. Subgraphs : 5
+Running Graph 179
+	89.500Start of expand cut!!
+End of Expand Cut for graph 179
+Time taken    0.67
+Merging start!!
+Time taken    0.06
+Merging done!!
+local expand cuts229
+No Of Max Freq. Subgraphs : 5
+Running Graph 180
+	90.000Start of expand cut!!
+End of Expand Cut for graph 180
+Time taken    1.59
+Merging start!!
+Time taken    0.24
+Merging done!!
+local expand cuts490
+No Of Max Freq. Subgraphs : 5
+Running Graph 181
+	90.500Time taken    0
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 182
+	91.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 183
+	91.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 184
+	92.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 185
+	92.500Start of expand cut!!
+End of Expand Cut for graph 185
+Time taken    1.98
+Merging start!!
+Time taken    0.39
+Merging done!!
+local expand cuts614
+No Of Max Freq. Subgraphs : 5
+Running Graph 186
+	93.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 187
+	93.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 188
+	94.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 189
+	94.500Start of expand cut!!
+End of Expand Cut for graph 189
+Time taken    0.4
+Merging start!!
+Time taken    0.01
+Merging done!!
+local expand cuts104
+No Of Max Freq. Subgraphs : 5
+Running Graph 190
+	95.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 191
+	95.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 192
+	96.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 193
+	96.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 194
+	97.000Time taken    0.01
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 195
+	97.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 196
+	98.000Start of expand cut!!
+End of Expand Cut for graph 196
+Time taken    0.14
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts55
+No Of Max Freq. Subgraphs : 5
+Running Graph 197
+	98.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 198
+	99.000Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+Running Graph 199
+	99.500Time taken    0
+Merging start!!
+Time taken    0
+Merging done!!
+local expand cuts0
+No Of Max Freq. Subgraphs : 5
+--------------------------------------------
+No Of Max Freq. Subgraphs in this partition: 0
+ExpCut Time Taken for 4th partition        : 32.46 Sec
+No Of Expand Cuts for 4th partition        : 9074
+Total Time Taken  for 4th partition        : 32.68 Sec
+----------------------------------------------------------------
+Local Computation done
+Total Time Taken for local computation for each partition        : 172.06 Sec
+----------------------------------------------------------------
+HERE
+NO of local MFS: 5
